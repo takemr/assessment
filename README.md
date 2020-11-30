@@ -1,2 +1,2 @@
 # assessment
-あなたのいいところ診断ゲーム
+javascript code
